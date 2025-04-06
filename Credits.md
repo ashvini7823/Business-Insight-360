@@ -10,7 +10,7 @@ This file lists all the sources of visual assets (icons, images) used in the Bus
 - **Finance**: [Icon by Sympnoiaicon](https://www.freepik.com/user/collection)
 - **Sales**: [Icon by POD Gladiator](https://www.freepik.com/user/collection)
 - **Marketing**: [Icon by Prosymbols Premium](https://www.freepik.com/user/collection)
-- **Supply Chain**: [Icon by pojok d](https://www.freepik.com/search)
+- **Supply Chain**: [Icon by Iconic Artisan](https://github.com/user-attachments/assets/4b587bc7-75ea-45df-9025-27cb7c0efedd)
 - **Executive**: [Icon by rcherem](https://www.freepik.com/icon/man_11379344#fromView=image_search&page=1&position=9&uuid=5ad0d68d-5938-490d-9eab-40ac4a2a8230)
 - **Info**: [Icon by fif fudin](https://www.freepik.com/user/collection)
 - **Support**: [Icon by Freepik](https://www.freepik.com/user/collection)
