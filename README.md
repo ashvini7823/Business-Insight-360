@@ -108,7 +108,7 @@ This project transformed scattered data into actionable insights, enabling AtliQ
 - [Project Presentation](https://github.com/ashvini7823/Business-Insight-360/blob/9279f657e5511a0e643776b1bad24a01e224a40c/Business%20Insight%20360%20Project%20Presentation.pdf)
 - [Dashboard Preview](https://github.com/ashvini7823/Business-Insight-360/blob/9279f657e5511a0e643776b1bad24a01e224a40c/Buisness%20Insight%20360%20Dashboard.pdf)
 - [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTVmYWFiMTEtMzk2Yy00YzVkLWExMTYtNTQ5OThiNjZjNTk5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-- [Icon Credit](https://github.com/ashvini7823/Business-Insight-360/blob/9279f657e5511a0e643776b1bad24a01e224a40c/Credits.md)
+- [Icon Credit](https://github.com/ashvini7823/Business-Insight-360/blob/9372f7f25d703b3106e91f09c421b64f7fccfd53/Credits.md)
 - [Video Presentation]()
   
 ## 🙏 Acknowledgment
