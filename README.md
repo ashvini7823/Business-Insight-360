@@ -1,4 +1,4 @@
-# Business Insight 360 - Power BI Project
+# Business Insight 360
 
 ## 🏢 Company Overview
 AtliQ Hardwares is one of the fastest-growing companies in the electronic goods market, specializing in high-quality PCs, keyboards, mouse, and printers for both consumers and businesses.
@@ -28,44 +28,51 @@ Below is a breakdown of the datasets used for this project:
 | Excel            | Operational_Expenses          | Operating expenses for each region                   |
 
 ## 🔗 Data Model Diagram
-The data model follows a star schema with well-defined relationships between dimension and fact tables. It is optimized for self-service analytics and cross-filtering in Power BI.
+The data model integrates multiple fact and dimension tables to support comprehensive business analysis.
 
-*Image below*
+![Data model for BI 360 Project](https://github.com/user-attachments/assets/e646449b-4bf4-4a20-a3df-4bb5652b39fa)
 
 ## 📑 Report Features
 
 ### 📘 Home Page 
 A welcome screen featuring the project title, and navigation menu for seamless user experience.
 
+![Buisness Insight 360 Dahboard_page-0001](https://github.com/user-attachments/assets/7a2f5ab4-769d-4a28-a995-03637b195093)
+
 ---
 
 ### 📘 Finance View  
 Profit & Loss statement to evaluate financial performance across different products, markets, and customer segments.  
-*Image below*
+
+![Buisness Insight 360 Dashboard_page-0002](https://github.com/user-attachments/assets/f2e11b13-f4f5-43db-883c-785991df0de9)
 
 ---
 
 ### 📘 Sales View  
 Identifies top and bottom customers using revenue contribution and other KPIs to support strategic sales decisions.  
-*Image below*
+
+![Buisness Insight 360 Dahboard_page-0003](https://github.com/user-attachments/assets/e6d6c77c-6921-431a-b222-2495967cffdd)
 
 ---
 
 ### 📘 Marketing View  
 Analyzes product-level and regional performance to uncover trends, inefficiencies, and market behavior.  
-*Image below*
+
+![Buisness Insight 360 Dahboard_page-0004](https://github.com/user-attachments/assets/ab0060b3-8cdd-4db2-aa11-0cd217da19cb)
 
 ---
 
 ### 📘 Supply Chain View  
 Focuses on forecast accuracy and inventory health to improve supply chain reliability and efficiency.  
-*Image below*
+
+![Buisness Insight 360 Dahboard_page-0005](https://github.com/user-attachments/assets/46703be6-f678-43bb-b128-9341b4421845)
 
 ---
 
 ### 📘 Executive View  
 Provides a high-level summary of business performance, highlighting strategic metrics for leadership decisions.  
-*Image below*
+
+![Buisness Insight 360 Dashboard_page-0006](https://github.com/user-attachments/assets/2d99c5f2-ca43-486b-8150-60eee6d42e43)
 
 ---
 
