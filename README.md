@@ -35,7 +35,7 @@ The data model integrates multiple fact and dimension tables to support comprehe
 ## 📑 Report Features
 
 ### 📘 Home Page 
-A welcome screen featuring the project title, and navigation menu for seamless user experience.
+A welcome screen featuring the project title and navigation menu for seamless user experience.
 
 ![Buisness Insight 360 Dahboard_page-0001](https://github.com/user-attachments/assets/7a2f5ab4-769d-4a28-a995-03637b195093)
 
@@ -105,10 +105,12 @@ Provides a high-level summary of business performance, highlighting strategic me
 This project transformed scattered data into actionable insights, enabling AtliQ to shift from assumption-based decisions to a data-driven strategy.
 
 ## 🔗 Useful Links
-- [Project Presentation (PDF)](sample-link.com)
-- [Dashboard Preview](sample-link.com)
-- [GitHub Repository](sample-link.com)
-
+- [Project Presentation](https://github.com/ashvini7823/Business-Insight-360/blob/9279f657e5511a0e643776b1bad24a01e224a40c/Business%20Insight%20360%20Project%20Presentation.pdf)
+- [Dashboard Preview](https://github.com/ashvini7823/Business-Insight-360/blob/9279f657e5511a0e643776b1bad24a01e224a40c/Buisness%20Insight%20360%20Dashboard.pdf)
+- [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTVmYWFiMTEtMzk2Yy00YzVkLWExMTYtNTQ5OThiNjZjNTk5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+- [Icon Credit](https://github.com/ashvini7823/Business-Insight-360/blob/9279f657e5511a0e643776b1bad24a01e224a40c/Credits.md)
+- [Video Presentation]()
+  
 ## 🙏 Acknowledgment
 This project is part of CodeBasics Data Analytics Bootcamp's Power BI course.
 
